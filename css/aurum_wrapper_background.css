@@ -1,0 +1,5 @@
+#wrapper {
+    background: url(../images/header_bg.png) repeat-x top;
+    background-size: auto 55px;
+    width: 100%;
+}
